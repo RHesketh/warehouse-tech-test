@@ -1,0 +1,469 @@
+[
+  {
+    "name": "ZA001A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850004338"
+    ]
+  },
+  {
+    "name": "ZA002A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA003A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA004A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850004348"
+    ]
+  },
+  {
+    "name": "ZA005A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA006A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA007A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA008A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA009A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA010A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA011A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA012A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA013A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA014A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850000498"
+    ]
+  },
+  {
+    "name": "ZA015A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA016A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA017A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850000160"
+    ]
+  },
+  {
+    "name": "ZA018A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA019A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850000123"
+    ]
+  },
+  {
+    "name": "ZA020A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA021A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA022A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA023A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA024A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA025A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA026A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850005448"
+    ]
+  },
+  {
+    "name": "ZA027A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA028A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850000623"
+    ]
+  },
+  {
+    "name": "ZA029A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850000622"
+    ]
+  },
+  {
+    "name": "ZA030A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA031A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850000510"
+    ]
+  },
+  {
+    "name": "ZA032A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA033A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9811261966"
+    ]
+  },
+  {
+    "name": "ZA034A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA035A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA036A",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA037A",
+    "scanned": true,
+    "occupied": true,
+    "detected_barcodes": [
+      "DX9850000624"
+    ]
+  },
+  {
+    "name": "ZA001B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA002B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA003B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA004B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA005B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA006B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA007B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA008B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA009B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA010B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA011B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA012B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA013B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA014B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA015B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA016B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA017B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA018B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA019B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA020B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA021B",
+    "scanned": true,
+    "occupied": false,
+    "detected_barcodes": [
+
+    ]
+  },
+  {
+    "name": "ZA022B",
+    "scanned": true,
+   
