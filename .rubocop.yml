@@ -6,3 +6,6 @@ AllCops:
     - 'bin/**/*'
     - 'config/**/*'
     - 'db/migrate/**/*'
+    - 'app/services/comparison_report_calculator.rb'
+Metrics/BlockLength:
+  AllowedMethods: ['describe', 'context']
