@@ -8,10 +8,10 @@ class ComparisonReportCalculator
     hashed_manifest.keys.map do |location|
       [
         location,
-        scanned_status(hashed_scan_report[location][:scanned]),
-        occupied_status(hashed_scan_report[location][:occupied]),
+        scanned_status(hashed_scan_report[location]['scanned']),
+        occupied_status(hashed_scan_report[location]['occupied']),
         hashed_manifest[location][1].to_s,
-        hashed_scan_report[location][:detected_barcodes].join(', '),
+        hashed_scan_report[location]['detected_barcodes'].join(', '),
         status_report(hashed_manifest[location], hashed_scan_report[location])
       ]
     end
@@ -23,7 +23,7 @@ class ComparisonReportCalculator
 
   def self.hashify_scan_report(scan_report)
     scan_report.index_by do |location|
-      location[:name]
+      location['name']
     end
   end
 
@@ -63,9 +63,9 @@ class ComparisonReportCalculator
   # For this reason, I think the below structure is more readable and thus more maintainable.
   def self.status_report(manifest_row, scan_report_row)
     expected_barcode = manifest_row[1]
-    detected_barcodes = scan_report_row[:detected_barcodes]
+    detected_barcodes = scan_report_row['detected_barcodes']
 
-    if scan_report_row[:occupied] == true && detected_barcodes.empty?
+    if scan_report_row['occupied'] == true && detected_barcodes.empty?
       'Location was occupied, but no barcodes were detected'
     elsif expected_barcode.nil? && detected_barcodes.empty?
       'Location was empty, as expected'

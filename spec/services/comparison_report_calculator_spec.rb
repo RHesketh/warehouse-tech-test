@@ -6,10 +6,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
   let(:scan_report) do
     [
       {
-        "name": 'ZA001A',
-        "scanned": true,
-        "occupied": true,
-        "detected_barcodes": [
+        'name' => 'ZA001A',
+        'scanned' => true,
+        'occupied' => true,
+        'detected_barcodes' => [
           'DX9850004338'
         ]
       }
@@ -35,10 +35,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       let(:scan_report) do
         [
           {
-            "name": 'ZA001A',
-            "scanned": true,
-            "occupied": true,
-            "detected_barcodes": [
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => true,
+            'detected_barcodes' => [
               'DX9850004338'
             ]
           }
@@ -54,10 +54,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       let(:scan_report) do
         [
           {
-            "name": 'ZA001A',
-            "scanned": false,
-            "occupied": true,
-            "detected_barcodes": [
+            'name' => 'ZA001A',
+            'scanned' => false,
+            'occupied' => true,
+            'detected_barcodes' => [
               'DX9850004338'
             ]
           }
@@ -73,10 +73,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       let(:scan_report) do
         [
           {
-            "name": 'ZA001A',
-            "scanned": true,
-            "occupied": false,
-            "detected_barcodes": [
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => false,
+            'detected_barcodes' => [
               'DX9850004338'
             ]
           }
@@ -92,10 +92,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       let(:scan_report) do
         [
           {
-            "name": 'ZA001A',
-            "scanned": true,
-            "occupied": true,
-            "detected_barcodes": [
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => true,
+            'detected_barcodes' => [
               'DX9850004338'
             ]
           }
@@ -130,10 +130,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       let(:scan_report) do
         [
           {
-            "name": 'ZA001A',
-            "scanned": true,
-            "occupied": true,
-            "detected_barcodes": []
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => true,
+            'detected_barcodes' => []
           }
         ]
       end
@@ -154,10 +154,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         let(:scan_report) do
           [
             {
-              "name": 'ZA001A',
-              "scanned": true,
-              "occupied": false,
-              "detected_barcodes": []
+              'name' => 'ZA001A',
+              'scanned' => true,
+              'occupied' => false,
+              'detected_barcodes' => []
             }
           ]
         end
@@ -178,10 +178,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         let(:scan_report) do
           [
             {
-              "name": 'ZA001A',
-              "scanned": true,
-              "occupied": false,
-              "detected_barcodes": []
+              'name' => 'ZA001A',
+              'scanned' => true,
+              'occupied' => false,
+              'detected_barcodes' => []
             }
           ]
         end
@@ -202,10 +202,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         let(:scan_report) do
           [
             {
-              "name": 'ZA001A',
-              "scanned": true,
-              "occupied": true,
-              "detected_barcodes": ['DX9850004338']
+              'name' => 'ZA001A',
+              'scanned' => true,
+              'occupied' => true,
+              'detected_barcodes' => ['DX9850004338']
             }
           ]
         end
@@ -226,10 +226,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         let(:scan_report) do
           [
             {
-              "name": 'ZA001A',
-              "scanned": true,
-              "occupied": true,
-              "detected_barcodes": ['ADIFFERENTBARCODE']
+              'name' => 'ZA001A',
+              'scanned' => true,
+              'occupied' => true,
+              'detected_barcodes' => ['ADIFFERENTBARCODE']
             }
           ]
         end
@@ -250,10 +250,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         let(:scan_report) do
           [
             {
-              "name": 'ZA001A',
-              "scanned": true,
-              "occupied": true,
-              "detected_barcodes": ['DX9850004338']
+              'name' => 'ZA001A',
+              'scanned' => true,
+              'occupied' => true,
+              'detected_barcodes' => ['DX9850004338']
             }
           ]
         end
@@ -274,10 +274,10 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         let(:scan_report) do
           [
             {
-              "name": 'ZA001A',
-              "scanned": true,
-              "occupied": true,
-              "detected_barcodes": []
+              'name' => 'ZA001A',
+              'scanned' => true,
+              'occupied' => true,
+              'detected_barcodes' => []
             }
           ]
         end
