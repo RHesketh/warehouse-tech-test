@@ -1,0 +1,1000 @@
+Location,Scan Status,Occupation Status,Expected Barcodes,Detected Barcodes,Status
+ZA001A,Scanned,Occupied,DX9850004338,DX9850004338,"Location was occupied, as expected"
+ZA002A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA003A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA004A,Scanned,Occupied,DX9850004348,DX9850004348,"Location was occupied, as expected"
+ZA005A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA006A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA007A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA008A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA009A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA010A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA011A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA012A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA013A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA014A,Scanned,Occupied,DX9850000498,DX9850000498,"Location was occupied, as expected"
+ZA015A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA016A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA017A,Scanned,Occupied,DX9850000160,DX9850000160,"Location was occupied, as expected"
+ZA018A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA019A,Scanned,Occupied,DX9850000123,DX9850000123,"Location was occupied, as expected"
+ZA020A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA021A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA022A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA023A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA024A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA025A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA026A,Scanned,Occupied,DX9850005448,DX9850005448,"Location was occupied, as expected"
+ZA027A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA028A,Scanned,Occupied,DX9850000623,DX9850000623,"Location was occupied, as expected"
+ZA029A,Scanned,Occupied,DX9850000622,DX9850000622,"Location was occupied, as expected"
+ZA030A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA031A,Scanned,Occupied,DX9850000510,DX9850000510,"Location was occupied, as expected"
+ZA032A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA033A,Scanned,Occupied,DX9811261966,DX9811261966,"Location was occupied, as expected"
+ZA034A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA035A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA036A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA037A,Scanned,Occupied,DX9850000624,DX9850000624,"Location was occupied, as expected"
+ZA001B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA002B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA003B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA004B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA005B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA006B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA007B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA008B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA009B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA010B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA011B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA012B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA013B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA014B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA015B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA016B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA017B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA018B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA019B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA020B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA021B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA022B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA023B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA024B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA025B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA026B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA027B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA028B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA029B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA030B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA031B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA032B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA033B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA034B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA035B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA036B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA037B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA001C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA002C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA003C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA004C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA005C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA006C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA007C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA008C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA009C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA010C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA011C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA012C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA013C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA014C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA015C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA016C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA017C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA018C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA019C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA020C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA021C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA022C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA023C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA024C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA025C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA026C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA027C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA028C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA029C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA030C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA031C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA032C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA033C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA034C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA035C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA036C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA037C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA001D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA002D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA003D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA004D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA005D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA006D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA007D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA008D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA009D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA010D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA011D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA012D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA013D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA014D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA015D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA016D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA017D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA018D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA019D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA020D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA021D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA022D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA023D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA024D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA025D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA026D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA027D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA028D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA029D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA030D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA031D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA032D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA033D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA034D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA035D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA036D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA037D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA001E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA002E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA003E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA004E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA005E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA006E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA007E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA008E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA009E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA010E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA011E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA012E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA013E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA014E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA015E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA016E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA017E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA018E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA019E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA020E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA021E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA022E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA023E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA024E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA025E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA026E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA027E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA028E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA029E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA030E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA031E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA032E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA033E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA034E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA035E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA036E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA037E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA001F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA002F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA003F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA004F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA005F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA006F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA007F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA008F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA009F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA010F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA011F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA012F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA013F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA014F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA015F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA016F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA017F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA018F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA019F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA020F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA021F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA022F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA023F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA024F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA025F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA026F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA027F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA028F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA029F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA030F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA031F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA032F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA033F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA034F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA035F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA036F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZA037F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZB001A,Not Scanned,Not Occupied,DX9850005442,"",Location was not scanned
+ZB002A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB003A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB004A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB005A,Not Scanned,Not Occupied,DX9850000191,"",Location was not scanned
+ZB006A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB007A,Not Scanned,Not Occupied,DX9850000526,"",Location was not scanned
+ZB008A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB009A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB010A,Not Scanned,Not Occupied,DX9850005443,"",Location was not scanned
+ZB011A,Not Scanned,Not Occupied,DX9850002588,"",Location was not scanned
+ZB012A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB013A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB014A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB015A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB016A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB017A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB018A,Not Scanned,Not Occupied,DX9850004351,"",Location was not scanned
+ZB019A,Not Scanned,Not Occupied,DX9860000499,"",Location was not scanned
+ZB020A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB021A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB022A,Not Scanned,Not Occupied,DX9850004350,"",Location was not scanned
+ZB023A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB024A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB025A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB026A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB027A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB028A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB029A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB030A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB031A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB032A,Not Scanned,Not Occupied,DX9850002828,"",Location was not scanned
+ZB033A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB034A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB035A,Not Scanned,Not Occupied,DX9850002827,"",Location was not scanned
+ZB036A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB037A,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB001B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB002B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB003B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB004B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB005B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB006B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB007B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB008B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB009B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB010B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB011B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB012B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB013B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB014B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB015B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB016B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB017B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB018B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB019B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB020B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB021B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB022B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB023B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB024B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB025B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB026B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB027B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB028B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB029B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB030B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB031B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB032B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB033B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB034B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB035B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB036B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB037B,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB001C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB002C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB003C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB004C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB005C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB006C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB007C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB008C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB009C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB010C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB011C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB012C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB013C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB014C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB015C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB016C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB017C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB018C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB019C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB020C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB021C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB022C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB023C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB024C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB025C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB026C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB027C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB028C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB029C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB030C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB031C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB032C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB033C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB034C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB035C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB036C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB037C,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB001D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB002D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB003D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB004D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB005D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB006D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB007D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB008D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB009D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB010D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB011D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB012D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB013D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB014D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB015D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB016D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB017D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB018D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB019D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB020D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB021D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB022D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB023D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB024D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB025D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB026D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB027D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB028D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB029D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB030D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB031D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB032D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB033D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB034D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB035D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB036D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB037D,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB001E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB002E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB003E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB004E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB005E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB006E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB007E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB008E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB009E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB010E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB011E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB012E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB013E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB014E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB015E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB016E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB017E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB018E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB019E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB020E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB021E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB022E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB023E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB024E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB025E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB026E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB027E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB028E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB029E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB030E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB031E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB032E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB033E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB034E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB035E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB036E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB037E,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB001F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB002F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB003F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB004F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB005F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB006F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB007F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB008F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB009F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB010F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB011F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB012F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB013F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB014F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB015F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB016F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB017F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB018F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB019F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB020F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB021F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB022F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB023F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB024F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB025F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB026F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB027F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB028F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB029F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB030F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB031F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB032F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB033F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB034F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB035F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB036F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZB037F,Not Scanned,Not Occupied,"","",Location was not scanned
+ZC001A,Scanned,Occupied,DX9810081452,DX9810081452,"Location was occupied, as expected"
+ZC002A,Scanned,Not Occupied,DX981026177,"","Location was empty, but should have been occupied"
+ZC003A,Scanned,Occupied,DX9811265597,DX9811265597,"Location was occupied, as expected"
+ZC004A,Scanned,Not Occupied,DX981026231,"","Location was empty, but should have been occupied"
+ZC005A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC006A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC007A,Scanned,Occupied,DX9850003888,DX9850003888,"Location was occupied, as expected"
+ZC008A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC009A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC010A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC011A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC012A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC013A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC014A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC015A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC016A,Scanned,Occupied,DX9850003562,DX9850003562,"Location was occupied, as expected"
+ZC017A,Scanned,Occupied,DX9850003561,DX9850003561,"Location was occupied, as expected"
+ZC018A,Scanned,Occupied,DX9850003560,DX9850003560,"Location was occupied, as expected"
+ZC019A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC020A,Scanned,Occupied,DX9850004310,DX9850004310,"Location was occupied, as expected"
+ZC021A,Scanned,Occupied,DX9850000030,DX9850000030,"Location was occupied, as expected"
+ZC022A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC023A,Scanned,Occupied,DX9850003552,DX9850003552,"Location was occupied, as expected"
+ZC024A,Scanned,Occupied,DX9850004309,DX9850004309,"Location was occupied, as expected"
+ZC025A,Scanned,Occupied,DX9850004731,DX9850004731,"Location was occupied, as expected"
+ZC026A,Scanned,Occupied,DX9806152112,DX9806152112,"Location was occupied, as expected"
+ZC027A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC028A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC029A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC030A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC031A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC032A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC033A,Scanned,Occupied,DX9850000522,DX9850000522,"Location was occupied, as expected"
+ZC034A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC035A,Scanned,Occupied,DX9850000636,DX9850000636,"Location was occupied, as expected"
+ZC036A,Scanned,Occupied,DX9850000520,DX9850000520,"Location was occupied, as expected"
+ZC037A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC001B,Scanned,Occupied,"",DX985900052481,"Location was occupied, but should have been empty"
+ZC002B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC003B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC004B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC005B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC006B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC007B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC008B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC009B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC010B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC011B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC012B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC013B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC014B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC015B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC016B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC017B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC018B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC019B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC020B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC021B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC022B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC023B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC024B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC025B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC026B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC027B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC028B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC029B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC030B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC031B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC032B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC033B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC034B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC035B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC036B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC037B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC001C,Scanned,Occupied,"",DX985900052518,"Location was occupied, but should have been empty"
+ZC002C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC003C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC004C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC005C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC006C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC007C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC008C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC009C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC010C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC011C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC012C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC013C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC014C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC015C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC016C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC017C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC018C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC019C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC020C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC021C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC022C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC023C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC024C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC025C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC026C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC027C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC028C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC029C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC030C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC031C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC032C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC033C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC034C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC035C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC036C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC037C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC001D,Scanned,Occupied,"",DX985900052555,"Location was occupied, but should have been empty"
+ZC002D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC003D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC004D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC005D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC006D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC007D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC008D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC009D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC010D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC011D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC012D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC013D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC014D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC015D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC016D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC017D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC018D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC019D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC020D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC021D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC022D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC023D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC024D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC025D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC026D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC027D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC028D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC029D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC030D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC031D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC032D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC033D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC034D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC035D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC036D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC037D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC001E,Scanned,Occupied,"",DX985900052592,"Location was occupied, but should have been empty"
+ZC002E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC003E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC004E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC005E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC006E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC007E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC008E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC009E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC010E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC011E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC012E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC013E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC014E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC015E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC016E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC017E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC018E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC019E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC020E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC021E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC022E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC023E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC024E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC025E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC026E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC027E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC028E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC029E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC030E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC031E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC032E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC033E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC034E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC035E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC036E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC037E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC001F,Scanned,Occupied,"",DX985900052629,"Location was occupied, but should have been empty"
+ZC002F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC003F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC004F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC005F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC006F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC007F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC008F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC009F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC010F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC011F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC012F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC013F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC014F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC015F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC016F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC017F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC018F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC019F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC020F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC021F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC022F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC023F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC024F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC025F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC026F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC027F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC028F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC029F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC030F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC031F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC032F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC033F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC034F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC035F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC036F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZC037F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD001A,Scanned,Occupied,DX980907826,DX980907826,"Location was occupied, as expected"
+ZD002A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD003A,Scanned,Occupied,DX980907827,DX980907827,"Location was occupied, as expected"
+ZD004A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD005A,Scanned,Occupied,DX9850004340,DX9850004340,"Location was occupied, as expected"
+ZD006A,Scanned,Occupied,DX980907829,DX980907829,"Location was occupied, as expected"
+ZD007A,Scanned,Occupied,DX980907828,DX980907828,"Location was occupied, as expected"
+ZD008A,Scanned,Not Occupied,DX981026218,"","Location was empty, but should have been occupied"
+ZD009A,Scanned,Occupied,DX981026233,DX981026233,"Location was occupied, as expected"
+ZD010A,Scanned,Not Occupied,DX981026232,"","Location was empty, but should have been occupied"
+ZD011A,Scanned,Occupied,DX9850004732,DX9850004732,"Location was occupied, as expected"
+ZD012A,Scanned,Occupied,DX9850004330,DX9850004330,"Location was occupied, as expected"
+ZD013A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD014A,Scanned,Occupied,DX9850002591,DX9850002591,"Location was occupied, as expected"
+ZD015A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD016A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD017A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD018A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD019A,Scanned,Occupied,DX9850004293,DX9850004293,"Location was occupied, as expected"
+ZD020A,Scanned,Occupied,DX9850001304,DX9850001304,"Location was occupied, as expected"
+ZD021A,Scanned,Occupied,DX9810081330,DX9810081330,"Location was occupied, as expected"
+ZD022A,Scanned,Occupied,DX9850000197,DX9850000197,"Location was occupied, as expected"
+ZD023A,Scanned,Occupied,DX9850000196,DX9850000196,"Location was occupied, as expected"
+ZD024A,Scanned,Occupied,DX9850000194,DX9850000194,"Location was occupied, as expected"
+ZD025A,Scanned,Occupied,DX9850001305,DX9850001305,"Location was occupied, as expected"
+ZD026A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD027A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD028A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD029A,Scanned,Occupied,DX981026161,DX981026161,"Location was occupied, as expected"
+ZD030A,Scanned,Not Occupied,DX981026212,"","Location was empty, but should have been occupied"
+ZD031A,Scanned,Occupied,DX9850000516,DX9850000516,"Location was occupied, as expected"
+ZD032A,Scanned,Occupied,DX9850000517,DX9850000517,"Location was occupied, as expected"
+ZD033A,Scanned,Occupied,DX9811151380,DX9811151380,"Location was occupied, as expected"
+ZD034A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD035A,Scanned,Occupied,DX9850000518,DX9850000518,"Location was occupied, as expected"
+ZD036A,Scanned,Occupied,DX9850000519,DX9850000519,"Location was occupied, as expected"
+ZD037A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD001B,Scanned,Occupied,DX9850004285,DX9850004285,"Location was occupied, as expected"
+ZD002B,Scanned,Occupied,DX9850004286,DX9850004286,"Location was occupied, as expected"
+ZD003B,Scanned,Occupied,DX9850004287,DX9850004287,"Location was occupied, as expected"
+ZD004B,Scanned,Occupied,DX9850004288,DX9850004288,"Location was occupied, as expected"
+ZD005B,Scanned,Occupied,DX9850004289,DX9850004289,"Location was occupied, as expected"
+ZD006B,Scanned,Occupied,DX9850004290,DX9850004290,"Location was occupied, as expected"
+ZD007B,Scanned,Occupied,DX9850004291,DX9850004291,"Location was occupied, as expected"
+ZD008B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD009B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD010B,Scanned,Occupied,DX9850004294,DX9850004294,"Location was occupied, as expected"
+ZD011B,Scanned,Occupied,DX9850004295,DX9850004295,"Location was occupied, as expected"
+ZD012B,Scanned,Occupied,DX9850004297,DX9850004297,"Location was occupied, as expected"
+ZD013B,Scanned,Occupied,DX9850004298,DX9850004298,"Location was occupied, as expected"
+ZD014B,Scanned,Occupied,DX9850004299,DX9850004299,"Location was occupied, as expected"
+ZD015B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD016B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD017B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD018B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD019B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD020B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD021B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD022B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD023B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD024B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD025B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD026B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD027B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD028B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD029B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD030B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD031B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD032B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD033B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD034B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD035B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD036B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD037B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD001C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD002C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD003C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD004C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD005C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD006C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD007C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD008C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD009C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD010C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD011C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD012C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD013C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD014C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD015C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD016C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD017C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD018C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD019C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD020C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD021C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD022C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD023C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD024C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD025C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD026C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD027C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD028C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD029C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD030C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD031C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD032C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD033C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD034C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD035C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD036C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD037C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD001D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD002D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD003D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD004D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD005D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD006D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD007D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD008D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD009D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD010D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD011D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD012D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD013D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD014D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD015D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD016D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD017D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD018D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD019D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD020D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD021D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD022D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD023D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD024D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD025D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD026D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD027D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD028D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD029D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD030D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD031D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD032D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD033D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD034D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD035D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD036D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD037D,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD001E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD002E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD003E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD004E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD005E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD006E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD007E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD008E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD009E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD010E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD011E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD012E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD013E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD014E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD015E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD016E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD017E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD018E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD019E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD020E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD021E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD022E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD023E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD024E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD025E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD026E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD027E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD028E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD029E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD030E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD031E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD032E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD033E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD034E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD035E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD036E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD037E,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD001F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD002F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD003F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD004F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD005F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD006F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD007F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD008F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD009F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD010F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD011F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD012F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD013F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD014F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD015F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD016F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD017F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD018F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD019F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD020F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD021F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD022F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD023F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD024F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD025F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD026F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD027F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD028F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD029F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD030F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD031F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD032F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD033F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD034F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD035F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD036F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZD037F,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE001A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE002A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE003A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE004A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE005A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE006A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE007A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE008A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE009A,Scanned,Occupied,"","","Location was occupied, but no barcodes were detected"
+ZE010A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE011A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE012A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE013A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE014A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE015A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE016A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE017A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE018A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE019A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE020A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE021A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE022A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE023A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE024A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE025A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE026A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE027A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE028A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE029A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE030A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE031A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE032A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE033A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE034A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE035A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE036A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE037A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE038A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE039A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE040A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE041A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE042A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE043A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE044A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE045A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE046A,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE001B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE002B,Scanned,Occupied,DX9850003427,DX9850003427,"Location was occupied, as expected"
+ZE003B,Scanned,Occupied,DX9850003437,DX9850003437,"Location was occupied, as expected"
+ZE004B,Scanned,Occupied,DX9850003406,DX9850003406,"Location was occupied, as expected"
+ZE005B,Scanned,Occupied,DX9850003418,DX9850003418,"Location was occupied, as expected"
+ZE006B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE007B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE008B,Scanned,Occupied,DX9850005065,DX9850005065,"Location was occupied, as expected"
+ZE009B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE010B,Scanned,Occupied,DX9850005066,DX9850005066,"Location was occupied, as expected"
+ZE011B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE012B,Scanned,Occupied,DX9850005067,DX9850005067,"Location was occupied, as expected"
+ZE013B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE014B,Scanned,Occupied,DX9850005077,DX9850005077,"Location was occupied, as expected"
+ZE015B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE016B,Scanned,Occupied,DX9850005070,DX9850005070,"Location was occupied, as expected"
+ZE017B,Scanned,Occupied,DX9850005078,DX9850005078,"Location was occupied, as expected"
+ZE018B,Scanned,Occupied,DX9850005072,DX9850005072,"Location was occupied, as expected"
+ZE019B,Scanned,Occupied,DX9850005083,DX9850005083,"Location was occupied, as expected"
+ZE020B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE021B,Scanned,Occupied,DX9850003429,DX9850003429,"Location was occupied, as expected"
+ZE022B,Scanned,Occupied,DX9850003421,DX9850003421,"Location was occupied, as expected"
+ZE023B,Scanned,Occupied,DX9850003425,DX9850003425,"Location was occupied, as expected"
+ZE024B,Scanned,Occupied,DX9850003413,DX9850003413,"Location was occupied, as expected"
+ZE025B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE026B,Scanned,Occupied,DX9850003438,DX9850003438,"Location was occupied, as expected"
+ZE027B,Scanned,Occupied,DX9850003394,DX9850003394,"Location was occupied, as expected"
+ZE028B,Scanned,Occupied,DX9850003424,DX9850003424,"Location was occupied, as expected"
+ZE029B,Scanned,Occupied,DX9850003416,DX9850003416,"Location was occupied, as expected"
+ZE030B,Scanned,Occupied,DX9850003423,DX9850003423,"Location was occupied, as expected"
+ZE031B,Scanned,Occupied,DX9850003393,DX9850003393,"Location was occupied, as expected"
+ZE032B,Scanned,Occupied,DX9850003395,DX9850003395,"Location was occupied, as expected"
+ZE033B,Scanned,Occupied,DX9850003537,DX9850003537,"Location was occupied, as expected"
+ZE034B,Scanned,Occupied,DX9850003538,DX9850003538,"Location was occupied, as expected"
+ZE035B,Scanned,Occupied,DX9850003539,DX9850003539,"Location was occupied, as expected"
+ZE036B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE037B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE038B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE039B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE040B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE041B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE042B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE043B,Scanned,Occupied,DX9850001184,DX9850001184,"Location was occupied, as expected"
+ZE044B,Scanned,Occupied,DX9850004965,DX9850004965,"Location was occupied, as expected"
+ZE045B,Scanned,Occupied,DX9850001185,DX9850001185,"Location was occupied, as expected"
+ZE046B,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE001C,Scanned,Occupied,DX9850003426,DX9850003426,"Location was occupied, as expected"
+ZE002C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE003C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE004C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE005C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE006C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE007C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE008C,Scanned,Occupied,DX9850005080,DX9850005080,"Location was occupied, as expected"
+ZE009C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE010C,Scanned,Occupied,DX9850005075,DX9850005075,"Location was occupied, as expected"
+ZE011C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE012C,Scanned,Occupied,DX9850005076,DX9850005076,"Location was occupied, as expected"
+ZE013C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE014C,Scanned,Occupied,DX9850005068,DX9850005068,"Location was occupied, as expected"
+ZE015C,Scanned,Not Occupied,"","","Location was empty, as expected"
+ZE016C,Scanned,Occupied,DX9850005069,DX9850005069,"Location was occupied, as expected"
+ZE017C,Scanned,Occupied,DX9850005071,DX9850005071,"Location was occupied, as expected"
+ZE018C,Scanned,Occupied,DX9850005073,DX9850005073,"Location was occupied, as expected"
+ZE019C,Scanned,Occupied,DX9850005074,DX9850005074,"Location was occupied, as expected"

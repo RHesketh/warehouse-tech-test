@@ -1,24 +1,60 @@
-# README
+# Dexory Warehouse App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails 7 application mimicing the basic functionality of a fictional warehouse inventory application. This application was created for a technical assessment exercise.
 
-Things you may want to cover:
+## Prerequisites
 
-* Ruby version
+* Ruby 3.3
+* Postgres 15 (or another ActiveRecord-compatible database that supports the `json` field)
 
-* System dependencies
+This is a Ruby 3.3 application, and requires Ruby to be installed on your system. I suggest using a Ruby version manager such as [rbenv](https://github.com/rbenv/rbenv) to install Ruby if it is not already available.
 
-* Configuration
+## Installation
 
-* Database creation
+To install the application, first install the required libraries using Bundler:
+```
+bundle install
+```
 
-* Database initialization
+Then, prepare the database for its first use:
+```
+rails db:create
+rails db:migrate
+```
 
-* How to run the test suite
+Once the application has been installed, you can start it by running:
+```
+rails s
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+## Usage
 
-* Deployment instructions
+For information about how to use the application, please see the [Usage Docs](./docs/usage/usage_instructions.md). This documentation is intended for users of the application.
 
-* ...
+## Development
+
+Details of the Application's engineering are described in more detail inside the internal documentation. This documentation is intended for developers who will be working on the project.
+
+This documentation is placed alongside the code within the repository in the hopes that it will be kept up-to-date as changes are made to the code.
+
+### Testing
+This application is tested using RSpec. To run the rspec test suite, run the `rspec` command:
+
+```
+% rspec
+.........................................
+
+Finished in 0.74474 seconds (files took 2.81 seconds to load)
+41 examples, 0 failures
+```
+
+### Code Linting
+The code follows standards established in the `.rubocop.yml` file. To run an automatic check of the code, run the `rubocop` command:
+
+```
+% rubocop
+Inspecting 31 files
+...............................
+
+31 files inspected, no offenses detected
+```

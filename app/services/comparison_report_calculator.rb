@@ -63,10 +63,6 @@ class ComparisonReportCalculator
     end
   end
 
-  # NOTE: It would be possible to refactor this down into two sections, first checking if the location was empty/occupied,
-  # and then appending whether that was expected. However, such an implementation would be tightly coupled to the present
-  # content of the status messages, and we have no guarentee that more will not need to be added/removed in future.
-  # For this reason, I think the below structure is more readable and thus more maintainable.
   def self.status_report(manifest_row, scan_report_row)
     expected_barcode = manifest_row[1]
     detected_barcodes = scan_report_row['detected_barcodes']
