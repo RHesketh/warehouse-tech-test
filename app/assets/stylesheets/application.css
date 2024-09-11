@@ -14,9 +14,20 @@
  *= require_self
  */
 
- table {
-    border: 1px solid #000000;
-    border
-    margin-bottom: 1rem;
-    color: #212529;
+table {
+   width: 80%;
+   border-collapse: collapse;
+   margin-bottom: 1rem;
  }
+
+ table th, table td {
+   border: 1px solid #000;
+   padding: 8px;
+   text-align: left;
+   color: #000000; /* Ensure text color is set */
+ }
+
+table th {
+   background-color: #d8d7d7;
+   color: #000000;
+}
