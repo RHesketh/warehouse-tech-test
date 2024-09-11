@@ -5,7 +5,7 @@ class ComparisonReportCalculator
     hashed_scan_report = hashify_scan_report(scan_report)
     hashed_manifest = hashify_manifest(manifest)
 
-    hashed_manifest.keys.map do |location|
+    results = hashed_manifest.keys.map do |location|
       [
         location,
         scanned_status(hashed_scan_report[location]['scanned']),
@@ -15,6 +15,12 @@ class ComparisonReportCalculator
         status_report(hashed_manifest[location], hashed_scan_report[location])
       ]
     end
+
+    [headers] + results
+  end
+
+  def self.headers
+    ['Location','Scan Status','Occupation Status','Expected Barcodes','Detected Barcodes','Status'].freeze
   end
 
   def self.manifest_locations(manifest)

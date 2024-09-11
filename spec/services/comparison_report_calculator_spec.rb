@@ -25,10 +25,15 @@ RSpec.describe ComparisonReportCalculator, type: :job do
 
   describe '.calculate' do
     let(:result) { ComparisonReportCalculator.calculate(scan_report:, manifest: expected_manifest) }
-    let(:first_row) { result.first }
+    let(:results_row) { result.second }
+
+    it 'includes the expected headers' do
+      expect(result.first).to eq(['Location', 'Scan Status', 'Occupation Status', 'Expected Barcodes',
+                                  'Detected Barcodes', 'Status'])
+    end
 
     it 'includes the location name' do
-      expect(first_row[0]).to eq('ZA001A')
+      expect(results_row[0]).to eq('ZA001A')
     end
 
     context 'when the location was succesfully scanned' do
@@ -46,7 +51,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       end
 
       it 'includes the scanned status' do
-        expect(first_row[1]).to eq('Scanned')
+        expect(results_row[1]).to eq('Scanned')
       end
     end
 
@@ -65,7 +70,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       end
 
       it 'includes the scanned status' do
-        expect(first_row[1]).to eq('Not Scanned')
+        expect(results_row[1]).to eq('Not Scanned')
       end
     end
 
@@ -84,7 +89,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       end
 
       it 'includes the occupied status' do
-        expect(first_row[2]).to eq('Not Occupied')
+        expect(results_row[2]).to eq('Not Occupied')
       end
     end
 
@@ -103,7 +108,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       end
 
       it 'includes the occupied status' do
-        expect(first_row[2]).to eq('Occupied')
+        expect(results_row[2]).to eq('Occupied')
       end
     end
 
@@ -116,13 +121,13 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       end
 
       it 'includes a blank cell' do
-        expect(first_row[3]).to eq('')
+        expect(results_row[3]).to eq('')
       end
     end
 
     context 'When a barcode was expected for a location' do
       it 'includes the expected barcodes' do
-        expect(first_row[3]).to eq('DX9850004338')
+        expect(results_row[3]).to eq('DX9850004338')
       end
     end
 
@@ -139,13 +144,13 @@ RSpec.describe ComparisonReportCalculator, type: :job do
       end
 
       it 'includes a blank cell' do
-        expect(first_row[4]).to eq('')
+        expect(results_row[4]).to eq('')
       end
     end
 
     context 'When a barcode was detected for a location' do
       it 'includes the expected barcodes' do
-        expect(first_row[4]).to eq('DX9850004338')
+        expect(results_row[4]).to eq('DX9850004338')
       end
     end
 
@@ -170,7 +175,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         end
 
         it 'includes the expected status' do
-          expect(first_row[5]).to eq('Location was empty, as expected')
+          expect(results_row[5]).to eq('Location was empty, as expected')
         end
       end
 
@@ -194,7 +199,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         end
 
         it 'includes the expected status' do
-          expect(first_row[5]).to eq('Location was empty, but should have been occupied')
+          expect(results_row[5]).to eq('Location was empty, but should have been occupied')
         end
       end
 
@@ -218,7 +223,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         end
 
         it 'includes the expected status' do
-          expect(first_row[5]).to eq('Location was occupied, as expected')
+          expect(results_row[5]).to eq('Location was occupied, as expected')
         end
       end
 
@@ -242,7 +247,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         end
 
         it 'includes the expected status' do
-          expect(first_row[5]).to eq('Location was occupied, but the barcodes do not match')
+          expect(results_row[5]).to eq('Location was occupied, but the barcodes do not match')
         end
       end
 
@@ -266,7 +271,7 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         end
 
         it 'includes the expected status' do
-          expect(first_row[5]).to eq('Location was occupied, but should have been empty')
+          expect(results_row[5]).to eq('Location was occupied, but should have been empty')
         end
       end
 
@@ -290,7 +295,31 @@ RSpec.describe ComparisonReportCalculator, type: :job do
         end
 
         it 'includes the expected status' do
-          expect(first_row[5]).to eq('Location was occupied, but no barcodes were detected')
+          expect(results_row[5]).to eq('Location was occupied, but no barcodes were detected')
+        end
+      end
+
+      context 'when the location was not scanned' do
+        let(:scan_report) do
+          [
+            {
+              'name' => 'ZA001A',
+              'scanned' => false,
+              'occupied' => true,
+              'detected_barcodes' => []
+            }
+          ]
+        end
+
+        let(:expected_manifest) do
+          [
+            %w[LOCATION ITEM],
+            %w[ZA001A DX9850004338]
+          ]
+        end
+
+        it 'includes the expected status' do
+          expect(results_row[5]).to eq('Location was not scanned')
         end
       end
     end
