@@ -31,6 +31,8 @@ rails s
 
 For information about how to use the application, please see the [Usage Docs](./docs/usage/usage_instructions.md). This documentation is intended for users of the application.
 
+## Development
+
 ### Testing
 This application is tested using RSpec. To run the rspec test suite, run the `rspec` command:
 
