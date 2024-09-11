@@ -25,6 +25,29 @@ RSpec.describe 'Comparisons', type: :request do
       expect(response).to have_http_status(:ok)
       expect(response.media_type).to eq('text/vnd.turbo-stream.html')
     end
+
+    context 'Error handling' do
+      context 'when the manifest file is missing' do
+        let(:manifest_file) { nil }
+
+        it 'redirects to the scans path with an alert message' do
+          expect(response).to redirect_to(scans_path)
+          expect(flash[:alert]).to eq('Please attach a manifest for comparison!')
+        end
+      end
+
+      context 'when a CSV parsing error occurs' do
+        before do
+          allow(Comparison).to receive(:create_from_manifest).and_raise(StandardError, 'Invalid CSV file format!')
+          post '/comparisons', params: { scan_id: scan.id, manifest: manifest_file }
+        end
+
+        it 'redirects to the scans path with an alert message' do
+          expect(response).to redirect_to(scans_path)
+          expect(flash[:alert]).to eq('Invalid CSV file format!')
+        end
+      end
+    end
   end
 
   describe 'GET /comparisons/:id' do
