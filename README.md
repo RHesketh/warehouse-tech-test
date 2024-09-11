@@ -31,12 +31,6 @@ rails s
 
 For information about how to use the application, please see the [Usage Docs](./docs/usage/usage_instructions.md). This documentation is intended for users of the application.
 
-## Development
-
-Details of the Application's engineering are described in more detail inside the internal documentation. This documentation is intended for developers who will be working on the project.
-
-This documentation is placed alongside the code within the repository in the hopes that it will be kept up-to-date as changes are made to the code.
-
 ### Testing
 This application is tested using RSpec. To run the rspec test suite, run the `rspec` command:
 
