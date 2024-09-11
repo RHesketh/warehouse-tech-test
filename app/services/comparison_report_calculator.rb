@@ -71,7 +71,9 @@ class ComparisonReportCalculator
     expected_barcode = manifest_row[1]
     detected_barcodes = scan_report_row['detected_barcodes']
 
-    if scan_report_row['occupied'] == true && detected_barcodes.empty?
+    if scan_report_row['scanned'] == false
+      'Location was not scanned'
+    elsif scan_report_row['occupied'] == true && detected_barcodes.empty?
       'Location was occupied, but no barcodes were detected'
     elsif expected_barcode.nil? && detected_barcodes.empty?
       'Location was empty, as expected'
