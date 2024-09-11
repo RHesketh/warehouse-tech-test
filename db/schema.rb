@@ -12,13 +12,24 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 20_240_908_124_158) do
+ActiveRecord::Schema[7.1].define(version: 20_240_908_165_011) do
   # These are extensions that must be enabled in order to support this database
   enable_extension 'plpgsql'
+
+  create_table 'comparisons', force: :cascade do |t|
+    t.bigint 'scan_id', null: false
+    t.json 'expected_manifest'
+    t.json 'comparison_outcome'
+    t.datetime 'created_at', null: false
+    t.datetime 'updated_at', null: false
+    t.index ['scan_id'], name: 'index_comparisons_on_scan_id'
+  end
 
   create_table 'scans', force: :cascade do |t|
     t.json 'report_contents'
     t.datetime 'created_at', null: false
     t.datetime 'updated_at', null: false
   end
+
+  add_foreign_key 'comparisons', 'scans'
 end
