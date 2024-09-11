@@ -1,4 +1,4 @@
-# Dexory Warehouse App
+# Warehouse App
 
 A Rails 7 application mimicing the basic functionality of a fictional warehouse inventory application. This application was created for a technical assessment exercise.
 
