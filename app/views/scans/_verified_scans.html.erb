@@ -1,0 +1,14 @@
+<%= turbo_stream_from "comparisons" %>
+<table id='verified-scans-table'>
+    <tr>
+        <td>Scan ID</td>
+        <th>Created At</th>
+        <th>Results</th>
+    </tr>
+    <% scans.each do |scan| %>
+        <%= form_tag({controller: 'comparisons', action: 'create'}, method: 'post', multipart: true) do %>
+            <%= hidden_field_tag :scan_id, scan.id %>
+            <%= render partial: 'verified_scan_row', locals: { scan: scan } %>
+        <% end %>
+    <% end %>
+</table>

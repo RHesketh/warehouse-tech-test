@@ -1,0 +1,11 @@
+<tr id='<%= "verified-scan-row-#{scan.id}" %>'>
+    <td><%= scan.id %></td>
+    <td><%= scan.created_at %></td>
+    <td>
+        <% if scan.comparison.processing? %>
+            <div>Report is generating, please wait...</div>
+        <% else %>
+            <a href="<%= comparison_path(scan.comparison) %>">See Comparison Report</a>
+        <% end %>
+    </td>
+</tr>

@@ -1,0 +1,19 @@
+<h1>Warehouse Scans</h1>
+
+<% if @scans.blank? %>
+    <h2>No scans found</h2>
+<% else %>
+    <h2>Unverified Scans</h2>
+    <% if @unverified_scans.present? %>
+        <%= render partial: 'unverified_scans', locals: { scans: @unverified_scans } %>
+    <% else %>
+        <h3>No unverified scans found</h3>
+    <% end %>
+    
+    <h2>Verified Scans</h2>
+    <% if @verified_scans.present? %>
+        <%= render partial: 'verified_scans', locals: { scans: @verified_scans } %>
+    <% else %>
+        <h3>No verified scans found</h3>
+    <% end %>
+<% end %>
