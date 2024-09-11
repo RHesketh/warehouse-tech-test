@@ -1,0 +1,22 @@
+<h1>Warehouse Comparison Report</h1>
+
+<div><%= link_to 'Back to Index', scans_path %></div>
+
+<p>To export this report as a CSV file, please click here:
+    <%= link_to 'Export as CSV', csv_comparison_path(@comparison) %>
+</p>
+
+<table>
+    <tr>
+        <% @headers.each do |header|%>
+            <th><%= header %></th>
+        <% end %>
+    </tr>
+    <% @outcome.each do |row| %>
+        <tr>
+            <% row.each do |cell| %>
+                <td><%= cell %></td>
+            <% end %>
+        </tr>
+    <% end %>
+</table>

@@ -9,5 +9,10 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   root "scans#index"
+  resources :comparisons, only: %i[create show] do
+    member do
+      get 'csv', to: 'comparisons/csv#index'
+    end
+  end
   resources :scans, only: %i[index create]
 end
