@@ -3,7 +3,7 @@
 module Comparisons
   # Handles requests for CSV downloads of comparison reports
   class CsvController < ApplicationController
-    def index
+    def show
       @comparison = Comparison.find(params[:id])
       headers = @comparison.headers
       outcome = @comparison.comparison_outcome[1..]

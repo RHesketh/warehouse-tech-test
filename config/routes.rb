@@ -11,7 +11,7 @@ Rails.application.routes.draw do
   root "scans#index"
   resources :comparisons, only: %i[create show] do
     member do
-      get 'csv', to: 'comparisons/csv#index'
+      get 'csv', to: 'comparisons/csv#show'
     end
   end
   resources :scans, only: %i[index create]
