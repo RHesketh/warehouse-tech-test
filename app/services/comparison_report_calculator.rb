@@ -17,21 +17,21 @@ class ComparisonReportCalculator
     [headers] + results
   end
 
-  def self.headers
+  private_class_method def self.headers
     ['Location', 'Scan Status', 'Occupation Status', 'Expected Barcodes', 'Detected Barcodes', 'Status'].freeze
   end
 
-  def self.manifest_locations(manifest)
+  private_class_method def self.manifest_locations(manifest)
     manifest[1..].map { |row| row[0] }
   end
 
-  def self.hashify_scan_report(scan_report)
+  private_class_method def self.hashify_scan_report(scan_report)
     scan_report.index_by do |location|
       location['name']
     end
   end
 
-  def self.hashify_manifest(manifest)
+  private_class_method def self.hashify_manifest(manifest)
     manifest[1..].index_by do |row|
       row[0]
     end
