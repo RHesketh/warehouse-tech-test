@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 RSpec.describe ComparisonRowPresenter do
@@ -71,8 +73,125 @@ RSpec.describe ComparisonRowPresenter do
       expect(returned_row[4]).to eq('DX9850004338')
     end
 
-    it 'includes the status report' do
-      expect(returned_row[5]).to eq('TODO')
+    context 'status field' do
+      context 'when the location was empty, as expected' do
+        let(:scan_report_row) do
+          {
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => false,
+            'detected_barcodes' => []
+          }
+        end
+
+        let(:manifest_row) do
+          ['ZA001A', nil]
+        end
+
+        it 'includes the expected_status' do
+          expect(returned_row[5]).to eq('Location was empty, as expected')
+        end
+      end
+
+      context 'when the location was empty, but should have been occupied' do
+        let(:scan_report_row) do
+          {
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => false,
+            'detected_barcodes' => []
+          }
+        end
+
+        let(:manifest_row) { %w[ZA001A DX9850004338] }
+
+        it 'includes the expected status' do
+          expect(returned_row[5]).to eq('Location was empty, but should have been occupied')
+        end
+      end
+
+      context 'when the location was occupied as expected' do
+        let(:scan_report_row) do
+          {
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => true,
+            'detected_barcodes' => ['DX9850004338']
+          }
+        end
+
+        let(:manifest_row) { %w[ZA001A DX9850004338] }
+
+        it 'includes the expected status' do
+          expect(returned_row[5]).to eq('Location was occupied, as expected')
+        end
+      end
+
+      context 'when the location was occupied, but the barcodes do not match' do
+        let(:scan_report_row) do
+          {
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => true,
+            'detected_barcodes' => ['DX9850004339']
+          }
+        end
+
+        let(:manifest_row) { %w[ZA001A ANOTHERBARCODE] }
+
+        it 'includes the expected status' do
+          expect(returned_row[5]).to eq('Location was occupied, but the barcodes do not match')
+        end
+      end
+
+      context 'when the location was occupied, but should have been empty' do
+        let(:scan_report_row) do
+          {
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => true,
+            'detected_barcodes' => ['DX9850004338']
+          }
+        end
+
+        let(:manifest_row) { ['ZA001A', nil] }
+
+        it 'includes the expected status' do
+          expect(returned_row[5]).to eq('Location was occupied, but should have been empty')
+        end
+      end
+
+      context 'when the location was occupied, but no barcodes were detected' do
+        let(:scan_report_row) do
+          {
+            'name' => 'ZA001A',
+            'scanned' => true,
+            'occupied' => true,
+            'detected_barcodes' => []
+          }
+        end
+
+        let(:manifest_row) { %w[ZA001A DX9850004338] }
+
+        it 'includes the expected status' do
+          expect(returned_row[5]).to eq('Location was occupied, but no barcodes were detected')
+        end
+      end
+
+      context 'when the location was not scanned' do
+        let(:scan_report_row) do
+          {
+            'name' => 'ZA001A',
+            'scanned' => false,
+            'occupied' => false,
+            'detected_barcodes' => []
+          }
+        end
+
+        it 'includes the expected status' do
+          expect(returned_row[5]).to eq('Location was not scanned')
+        end
+      end
     end
   end
 end
