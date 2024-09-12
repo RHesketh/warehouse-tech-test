@@ -10,7 +10,7 @@ class ScansController < ApplicationController
     Scan.create_from_json(report_file: scan_params['file'])
     head :created
   rescue JSON::ParserError => e
-    render status: :internal_server_error, json: { errors: e.message }
+    render status: :bad_request, json: { errors: e.message }
   end
 
   private

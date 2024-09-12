@@ -23,9 +23,9 @@ RSpec.describe 'Scans', type: :request do
           fixture_file_upload(Rails.root.join('spec/fixtures/errors/incomplete.json'), 'application/json')
         end
 
-        it 'returns a 500 status code' do
+        it 'returns a 400 status code' do
           post scans_path, params: { scan: { file: scan_file } }
-          expect(response).to have_http_status(:internal_server_error)
+          expect(response).to have_http_status(:bad_request)
         end
       end
     end
